@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\APICatalogo",
-    "\\APICatalogo\\Models"
+    "\\APICatalogo"
   ],
-  "SelectedNode": "\\APICatalogo\\Models\\Produto.cs",
+  "SelectedNode": "\\APICatalogo\\Migrations",
   "PreviewInSolutionExplorer": false
 }
